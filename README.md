@@ -55,7 +55,7 @@ To begin developing using GitHub Codespaces, you can create a codespace from a t
 
 ### :keyboard: Activity: Push code to your repository from the codespace
 
-1. From inside the codespace in the VS Code explorer window, select the `index.html` file.
+l1. From inside the codespace in the VS Code explorer window, select the `index.html` file.
 1. Replace the **h1** header with the below:
 
    ```html
